@@ -1,6 +1,6 @@
 {
   "name": "redux-load",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Redux extensions for async loading and server rendering. (WIP)",
   "main": "lib/index.js",
   "files": [
